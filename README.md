@@ -6,7 +6,7 @@
 
 Subject | Content
 ------------ | -------------
-Growth Mindset | [Growth Mindset](https://malik9931.github.io/reading-notes/)
+Growth Mindset | [Growth Mindset](reading-notes/What is GitHub Pages.md)
 how to be Growth Mindset | [how to be Growth Mindset](https://malik9931.github.io/reading-notes/)
 Mastering Markdown | [Mastering Markdown](https://malik9931.github.io/reading-notes/)
 What is GitHub Pages | [What is GitHub Pages](https://malik9931.github.io/reading-notes/)
