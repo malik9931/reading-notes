@@ -1,21 +1,15 @@
-# Growth Mindset
+# Welcome All
+**This is my Home page you find some useful information.**
+**Be Happy Here**
 
-it is a terminology which indicated to mindset type that you can **improve your self** if you use the strategies of it.
-And you will be able to learn anything new and taking the challenges.
-In the opposite side, we  have the **Fixed Mindset** which put the obstacles in your learning and knowing the path.
+### Table of Content
 
-## how to be Growth Mindset
-- View challenges as opportunities
-- Try different learning tactics
-- Follow the research on brain plasticity
-
-![How to be agroth mindset](https://blog.innerdrive.co.uk/hs-fs/hubfs/social-suggested-images/developing-a-growth-mindset-600px.png?width=300&name=developing-a-growth-mindset-600px.png)
-
-
-
-
-Hello, My name is Malek Esmail, I studied Civil Engineering at Yarmouk University. 
-After graduation I worked in different places and fields. 
-I have a little bit of knowledge in using python, and now I'm here to improve my skills and to get a good challenging job.
-
-### Follow Me on [GitHub](https://github.com/malik9931)
+Subject | Content
+------------ | -------------
+Growth Mindset | [Growth Mindset](https://malik9931.github.io/reading-notes/)
+how to be Growth Mindset | [how to be Growth Mindset](https://malik9931.github.io/reading-notes/)
+Mastering Markdown | [Mastering Markdown](https://malik9931.github.io/reading-notes/)
+What is GitHub Pages | [What is GitHub Pages](https://malik9931.github.io/reading-notes/)
+Basic writing and formatting syntax | [Basic writing and formatting syntax](https://malik9931.github.io/reading-notes/)
+Who am I | [Who am I](https://malik9931.github.io/reading-notes/)
+Follow Me on | [Follow Me on](https://malik9931.github.io/reading-notes/)
