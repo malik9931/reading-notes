@@ -36,4 +36,4 @@ http://lovelycharts.com
 
 ##### When I want to Design a Navigation: Concise, Clear and Selective. 
 
-### [Home)](https://malik9931.github.io/reading-notes/README)
+### [Home)](https://malik9931.github.io/reading-notes)

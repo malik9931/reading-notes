@@ -49,4 +49,4 @@ I have a little bit of knowledge in using python, and now I'm here to improve my
 
 ### Follow Me on [GitHub](https://github.com/malik9931)
 
-### [Home)](https://malik9931.github.io/reading-notes/README)
+### [Home)](https://malik9931.github.io/reading-notes)
