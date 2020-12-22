@@ -14,3 +14,5 @@ Basic writing and formatting syntax | 21\12\2020  | [Basic writing and formattin
 Who am I | 21\12\2020 |  [Who am I](https://malik9931.github.io/reading-notes/content)
 Follow Me on | 21\12\2020 |  [Follow Me on](https://malik9931.github.io/reading-notes/content)
 Process & Design (HTML & CSS)| 22\12\2020 | [Process & Design (HTML & CSS)](https://malik9931.github.io/reading-notes/read1)
+HTML5 Layout| 22\12\2020 | [HTML5 Layout](https://malik9931.github.io/reading-notes/read1)
+Extra Markup| 22\12\2020 | [Extra Markup](https://malik9931.github.io/reading-notes/read1)

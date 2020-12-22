@@ -36,4 +36,38 @@ http://lovelycharts.com
 
 ##### When I want to Design a Navigation: Concise, Clear and Selective. 
 
+
+# HTML5 Layout
+
+### This chapter talks about:
+- HTML5 layout elements
+- How old browsers understand new elements
+- Styling HTML5 layout elements with CSS
+
+This chapter talks about the layers of HTML5 and says that the new layer play their own roles, meaning that each element has a goal.
+
+The new elements introduced by HTML5 perform specific and clear functions compared to the multiple functions performed by the <div> elements
+
+Old browsers that do not understand HTML5 elements need to re-define what the Block LEVL elements.
+
+
+#  Extra Markup
+
+- Specifying different versions of HTML
+- Identifying and grouping elements
+- Comments, meta information and iframes
+
+Global attributes, which are attributes that can be used on any element, including the class and id attributes.
+
+Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using.
+
+Use this to add comments:
+<!-- comment goes here -->
+
+
+<p id="pullquote">the text will be here </p>
+It is important that no two elements on the same page have the same value for their id attributes.
+
+The id attribute is known as a global attribute because it can be used on any element.
+
 ### [Home)](https://malik9931.github.io/reading-notes)
