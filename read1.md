@@ -1,6 +1,6 @@
-#Process & Design:
+# Process & Design:
 
-This chpter talks about:
+## This chpter talks about:
 - How to approach building a site
 - Understanding your audience and their needs
 - How to present information visitors want to see
