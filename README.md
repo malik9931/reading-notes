@@ -17,3 +17,4 @@ Process & Design (HTML & CSS)| 22\12\2020 | [Process & Design (HTML & CSS)](http
 HTML5 Layout| 22\12\2020 | [HTML5 Layout](https://malik9931.github.io/reading-notes/read1)
 Extra Markup| 22\12\2020 | [Extra Markup](https://malik9931.github.io/reading-notes/read1)
 Staring with JavaScript | 22\12\2020 | [Staring with JavaScript](https://malik9931.github.io/reading-notes/read2)
+How Computers Work | 22\12\2020 | [How Computers Work](https://malik9931.github.io/reading-notes/read2)
