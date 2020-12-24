@@ -19,3 +19,4 @@ Extra Markup| 22\12\2020 | [Extra Markup](https://malik9931.github.io/reading-no
 Staring with JavaScript | 22\12\2020 | [Staring with JavaScript](https://malik9931.github.io/reading-notes/read2)
 How Computers Work | 22\12\2020 | [How Computers Work](https://malik9931.github.io/reading-notes/read2)
 SCRIPT, EXPRESSIONS, OPERATORS and Functions| 24\12\2020  | [SCRIPT, EXPRESSIONS, OPERATORS and Functions](https://malik9931.github.io/reading-notes/read3)
+Comparison, logical operators and Loops | 24\12\2020 | [Comparison, logical operators and Loops](https://malik9931.github.io/reading-notes/read3)

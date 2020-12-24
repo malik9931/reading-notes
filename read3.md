@@ -20,6 +20,45 @@ In the previous pages, we talked about functions and how to call them and what i
 
 
 
+# Comparison and logical operators:
+
+## Comparison Operators
+Comparison operators are used in logical statements to determine equality or difference between variables or values.
+
+==	equal to
+===	equal value and equal type
+!=	not equal
+!==	not equal value or not equal type
+>	greater than
+<	less than
+>=	greater than or equal to
+<=	less than or equal to
+
+
+
+
+## Logical Operators
+Logical operators are used to determine the logic between variables or values.
+
+&&	and
+||	or
+!	not
+
+
+## The For Loop (depends on counter):
+for (initialization; condition; increment or dicremint) {
+  // code block to be executed
+}
+
+## The While Loop (Depend on condition):
+while (condition) {
+  // code block to be executed
+}
+
+
+
+
+
 
 
 ### Follow Me on [GitHub](https://github.com/malik9931)
