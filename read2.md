@@ -36,6 +36,28 @@ var nameOfVariable;
 nameOfVariable = something (string , number, boolean);
 
 
+# How Computers Work
+
+The computers include: 
+Smartphones, Wearables, video games, PC and laptops
+
+Any computers consists of:
+Input, storage, processing, output
+
+Bit: is a (0,1) choices in the computer and it is a smallest size.
+ Text, sounds and images can also be represented with numbers
+ 
+
+### How we ca use a Binary data? BY a Circuits and Logic
+
+Each circuits has receive (0 or 1).
+The set of circuits are doing together to give a different results.
+
+## An inspiring sentence:
+### The only thing that makes computer smart or useful is you. When you learn to code, you get to define the problem you want to solve and write the software that turns those ideas into reality that gives you the power to build things that matter to your community and the world.
+
+
+
 
 ### Follow Me on [GitHub](https://github.com/malik9931)
 
