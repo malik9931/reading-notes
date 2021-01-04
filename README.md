@@ -6,8 +6,8 @@
 
 Date | Content
 ------------ | -------------
-3/1/2021 | [1st day](https://malik9931.github.io/reading-notes/class-01)
-2 | 
+3/1/2021 | [Read 01](https://malik9931.github.io/reading-notes/class-01)
+2 | [Read 02](https://malik9931.github.io/reading-notes/class-02)
 3 | 
 4 | 
 5 | 
