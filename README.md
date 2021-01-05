@@ -9,7 +9,7 @@ Date | Content
 3/1/2021 | [Read 01](https://malik9931.github.io/reading-notes/class-01)
 4/1/2021 | [Read 02](https://malik9931.github.io/reading-notes/class-02)
 5/1/2021 | [Read 03](https://malik9931.github.io/reading-notes/class-03)
-4 | 
+6/1/2021 | [Read 03](https://malik9931.github.io/reading-notes/class-04)
 5 | 
 6 | 
 7 | 
