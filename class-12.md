@@ -5,9 +5,6 @@ The great things about Chart.js are that it’s simple to use and really very fl
 ![ajs](https://cdn.mos.cms.futurecdn.net/S5bicwPe8vbP9nt3iwAwwi.jpg)
 
 
-## Basic usage of canvas
-
-''' <canvas id="tutorial" width="150" height="150"></canvas> '''
 
 
 ## The grid:
