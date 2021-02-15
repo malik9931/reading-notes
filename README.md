@@ -14,7 +14,7 @@ Code 401 - Advanced Software Development
 Date | Content
 ------------ | -------------
 14/2/2021 | [Read-01](https://malik9931.github.io/reading-notes/note-01)
-2 | 
+15/2/2021 | [Read-01](https://malik9931.github.io/reading-notes/note-02)
 3 | 
 4 | 
 5 | 
