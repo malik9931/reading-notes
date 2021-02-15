@@ -29,4 +29,4 @@ $("button").addClass("animated bounce");
 You can download a copy of the jQuery library from www.jquery.com, or, as an alternative, you can include it from a CDN (Content Delivery Network), like Google or Microsoft.
 
 To start using jQuery, we first need to add it to the head of our HTML document using the script tag:
-<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+``` <script src="https://code.jquery.com/jquery-3.1.1.js"></script> ```
