@@ -21,8 +21,8 @@ Date | Content
 21/2/2021 | [Read-06](https://malik9931.github.io/reading-notes/note-06)
 22/2/2021 | [Read-07](https://malik9931.github.io/reading-notes/note-07)
 23/2/2021 | [Read-08](https://malik9931.github.io/reading-notes/note-08)
-9 | 
-10 | 
+24/2/2021 | [Read-09](https://malik9931.github.io/reading-notes/note-09)
+25/2/2021 | [Read-10](https://malik9931.github.io/reading-notes/note-10)
 
 
 
