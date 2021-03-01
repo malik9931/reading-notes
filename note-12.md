@@ -1,0 +1,97 @@
+# EJS Templating
+
+## Partials
+In this section we’ll learn how to use `<%- include(‘’)-%>` tag.
+
+![](https://miro.medium.com/max/368/1*MmpLQqVFZQua2onQ0jmkcA.png)
+
+Project structure:
+
+```
+startEJS
+|--public
+|--views
+  |--pages
+     |--home.ejs
+  |--template
+     |--head.ejs
+     |--nav.ejs
+     |--footer.ejs 
+|--index.js
+|--package.json
+```
+
+
+Install express and ejs:
+```
+npm i express --save
+npm i ejs --save 
+```
+
+index.js file:
+
+```
+const express = require('express')
+
+var path = require('path');
+
+const app = express();
+
+const port = 3000;
+
+// view engine setup
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'ejs');
+
+//setup public folder
+app.use(express.static('./public'));
+app.get('/',function (req, res) {
+    res.render('pages/home')
+});
+
+app.listen(port, () => console.log(`MasterEJS app Started on port ${port}!`));
+```
+
+
+home.ejs
+
+```
+
+<%- include('../template/head')-%>
+    <body class="text-center">
+        <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+            <%- include('../template/nav')-%>
+            <main role="main" class="inner cover">
+                <h1 class="cover-heading">MasterEJS</h1>
+                <p class="lead">This is a sample app to Master EJS view template engine with Expressjs and Node.js framework</p>
+                <p class="lead">
+                    <a href="https://medium.com/@pkoulianos/master-ejs-template-engine-with-node-js-and-expressjs" class="btn btn-lg btn-secondary">Read More At Medium</a>
+                </p>
+            </main>
+            <%- include('../template/footer')-%>
+        </div>
+    </body>
+</html>
+```
+
+EJS uses `<%- include(‘’)-%>` tag to include HTML from other files, in our app, we have the HTML templates at /views/template folder.
+
+
+![](https://i.stack.imgur.com/pK1O7.png)
+## Render Links
+
+```
+//array with items to send
+var items = [
+    {name:'node.js',url:'https://nodejs.org/en/'},
+    {name:'ejs',url:'https://ejs.co'},
+    {name:'expressjs',url:'https://expressjs.com'},
+    {name:'vuejs',url:'https://vuejs.org'},
+    {name:'nextjs',url:'https://nextjs.org'}
+];
+res.render('pages/links',{
+    links:items
+})
+```
+
+**EJS** is a great template view engine for fast production environments and with a very smooth learning curve.
