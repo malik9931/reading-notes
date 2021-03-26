@@ -6,7 +6,14 @@
 Code 102 - Intro to Software Development
 Code 201 - Foundations of Software Development
 Code 301 - Intermediate Software Development
-Code 401 - Advanced Software Development
+Code 401 - Advanced Software Development "JAVA"
+
+
+### Table of Content for Code 401
+[Read: 01 - Java Basics](https://malik9931.github.io/reading-notes/read-01)
+
+
+
 
 
 ### Table of Content for Code 301
