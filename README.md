@@ -10,9 +10,10 @@ Code 401 - Advanced Software Development "JAVA"
 
 
 ### Table of Content for Code 401
-[Read: 01 - Java Basics](https://malik9931.github.io/reading-notes/read-01)
+[Read: 01 - Java Basics](https://malik9931.github.io/reading-notes/read-01)  
+-------
 [Read: 02 - Arrays, Loops, Imports](https://malik9931.github.io/reading-notes/read-02)
-
+-------
 
 
 
