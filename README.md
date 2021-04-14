@@ -18,6 +18,8 @@ Read: 03 - Maps, primitives, File I/O|[Read: 03 - Maps, primitives, File I/O](ht
 Read: 04 - OOP|[Read: 04 - OOP](https://malik9931.github.io/reading-notes/read-04)
 Read: 05 - Linked Lists|[Read: 05 - Linked Lists](https://malik9931.github.io/reading-notes/read-05)
 Read: 06 - Inheritance and Interfaces|[Read: 06 - Inheritance and Interfaces](https://malik9931.github.io/reading-notes/read-06)
+Read: 08 - OO Design|[Read: 08 - OO Design](https://malik9931.github.io/reading-notes/read-06)
+Read: 09 - WRRC and Java|[Read: 09 - WRRC and Java](https://malik9931.github.io/reading-notes/read-06)
 
 
 
