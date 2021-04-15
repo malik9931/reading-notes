@@ -20,7 +20,7 @@ Read: 05 - Linked Lists|[Read: 05 - Linked Lists](https://malik9931.github.io/re
 Read: 06 - Inheritance and Interfaces|[Read: 06 - Inheritance and Interfaces](https://malik9931.github.io/reading-notes/read-06)
 Read: 08 - OO Design|[Read: 08 - OO Design](https://malik9931.github.io/reading-notes/read-08)
 Read: 09 - WRRC and Java|[Read: 09 - WRRC and Java](https://malik9931.github.io/reading-notes/read-09)
-Read: 10 - Stacks and Queues|[Read: 10 - Stacks and Queues](https://malik9931.github.io/reading-notes/read-09)
+Read: 10 - Stacks and Queues|[Read: 10 - Stacks and Queues](https://malik9931.github.io/reading-notes/read-10)
 
 
 
