@@ -22,7 +22,7 @@ Read: 08 - OO Design|[Read: 08 - OO Design](https://malik9931.github.io/reading-
 Read: 09 - WRRC and Java|[Read: 09 - WRRC and Java](https://malik9931.github.io/reading-notes/read-09)
 Read: 10 - Stacks and Queues|[Read: 10 - Stacks and Queues](https://malik9931.github.io/reading-notes/read-10)
 Read: 11 - Spring|[Read: 11 - Spring](https://malik9931.github.io/reading-notes/read-11)
-Read: 12 - Spring RESTful Routing & Static Files|[Read: 12 - Spring RESTful Routing & Static Files](https://malik9931.github.io/reading-notes/read-10)
+Read: 12 - Spring RESTful Routing & Static Files|[Read: 12 - Spring RESTful Routing & Static Files](https://malik9931.github.io/reading-notes/read-12)
 
 
 
