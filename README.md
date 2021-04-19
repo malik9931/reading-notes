@@ -23,6 +23,7 @@ Read: 09 - WRRC and Java|[Read: 09 - WRRC and Java](https://malik9931.github.io/
 Read: 10 - Stacks and Queues|[Read: 10 - Stacks and Queues](https://malik9931.github.io/reading-notes/read-10)
 Read: 11 - Spring|[Read: 11 - Spring](https://malik9931.github.io/reading-notes/read-11)
 Read: 12 - Spring RESTful Routing & Static Files|[Read: 12 - Spring RESTful Routing & Static Files](https://malik9931.github.io/reading-notes/read-12)
+Read: 13 - Related Resources and Integration Testing|[Read: 13 - Related Resources and Integration Testing](https://malik9931.github.io/reading-notes/read-12)
 
 
 
