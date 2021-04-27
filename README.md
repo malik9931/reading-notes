@@ -26,9 +26,8 @@ Read: 12 - Spring RESTful Routing & Static Files|[Read: 12 - Spring RESTful Rout
 Read: 13 - Related Resources and Integration Testing|[Read: 13 - Related Resources and Integration Testing](https://malik9931.github.io/reading-notes/read-13)
 Read: 14 - Trees|[Read: 14 - Trees](https://malik9931.github.io/reading-notes/read-14)
 Read: 16 - Spring Authentication|[Read: 16 - Spring Authentication](https://malik9931.github.io/reading-notes/read-16)
-
-
-
+Read: 17 - Spring Authorization|[Read: 17 - Spring Authorization](https://malik9931.github.io/reading-notes/read-16)
+Read: 18 - Web App Security|[Read: 18 - Web App Security](https://malik9931.github.io/reading-notes/read-18)
 
 
 
