@@ -28,7 +28,7 @@ Read: 14 - Trees|[Read: 14 - Trees](https://malik9931.github.io/reading-notes/re
 Read: 16 - Spring Authentication|[Read: 16 - Spring Authentication](https://malik9931.github.io/reading-notes/read-16)
 Read: 17 - Spring Authorization|[Read: 17 - Spring Authorization](https://malik9931.github.io/reading-notes/read-16)
 Read: 18 - Web App Security|[Read: 18 - Web App Security](https://malik9931.github.io/reading-notes/read-18)
-Read: 19 - Spring and Sockets|[Read: 19 - Spring and Sockets](https://malik9931.github.io/reading-notes/read-18)
+Read: 19 - Spring and Sockets|[Read: 19 - Spring and Sockets](https://malik9931.github.io/reading-notes/read-19)
 
 
 
