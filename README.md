@@ -30,6 +30,7 @@ Read: 17 - Spring Authorization|[Read: 17 - Spring Authorization](https://malik9
 Read: 18 - Web App Security|[Read: 18 - Web App Security](https://malik9931.github.io/reading-notes/read-18)
 Read: 19 - Spring and Sockets|[Read: 19 - Spring and Sockets](https://malik9931.github.io/reading-notes/read-19)
 Read: 26 - Android Fundamentals|[Read: 26 - Android Fundamentals](https://malik9931.github.io/reading-notes/read-26)
+Read: 27 - Intents, Activities, and SharedPreferences|[Read: 27 - Intents, Activities, and SharedPreferences](https://malik9931.github.io/reading-notes/read-27)
 
 
 
