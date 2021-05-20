@@ -33,7 +33,7 @@ Read: 26 - Android Fundamentals|[Read: 26 - Android Fundamentals](https://malik9
 Read: 27 - Intents, Activities, and SharedPreferences|[Read: 27 - Intents, Activities, and SharedPreferences](https://malik9931.github.io/reading-notes/read-27)
 Read: 28 - RecyclerView|[Read: 28 - RecyclerView](https://malik9931.github.io/reading-notes/read-28)
 Read: 29 - Room|[Read: 29 - Room](https://malik9931.github.io/reading-notes/read-29)
-
+Read: 30 - Hash Tables|[Read: 30 - Hash Tables](https://malik9931.github.io/reading-notes/read-30)
 
 ### Table of Content for Code 301
 
