@@ -35,7 +35,7 @@ Read: 28 - RecyclerView|[Read: 28 - RecyclerView](https://malik9931.github.io/re
 Read: 29 - Room|[Read: 29 - Room](https://malik9931.github.io/reading-notes/read-29)
 Read: 30 - Hash Tables|[Read: 30 - Hash Tables](https://malik9931.github.io/reading-notes/read-30)
 Read: 31 - Espresso|[Read: 31 - Espresso](https://malik9931.github.io/reading-notes/read-31)
-Read: 32 - Serverless and Amplify|[Read: 32 - Serverless and Amplify](https://malik9931.github.io/reading-notes/read-31)
+Read: 32 - Serverless and Amplify|[Read: 32 - Serverless and Amplify](https://malik9931.github.io/reading-notes/read-32)
 
 ### Table of Content for Code 301
 
