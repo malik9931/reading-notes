@@ -39,6 +39,7 @@ Read: 32 - Serverless and Amplify|[Read: 32 - Serverless and Amplify](https://ma
 Read: 33 - GraphQL @connection|[Read: 33 - GraphQL @connection](https://malik9931.github.io/reading-notes/read-33)
 Read: Graphs|[Read: Graphs](https://malik9931.github.io/reading-notes/read-34)
 Read: 36 - Cognito|[Read: 36 - Cognito](https://malik9931.github.io/reading-notes/read-36)
+Read: 37 - S3|[Read: 37 - S3](https://malik9931.github.io/reading-notes/read-37)
 
 ### Table of Content for Code 301
 
