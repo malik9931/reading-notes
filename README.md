@@ -40,6 +40,9 @@ Read: 33 - GraphQL @connection|[Read: 33 - GraphQL @connection](https://malik993
 Read: Graphs|[Read: Graphs](https://malik9931.github.io/reading-notes/read-34)
 Read: 36 - Cognito|[Read: 36 - Cognito](https://malik9931.github.io/reading-notes/read-36)
 Read: 37 - S3|[Read: 37 - S3](https://malik9931.github.io/reading-notes/read-37)
+Read: 38 - Notifications|[Read: 38 - Notifications](https://malik9931.github.io/reading-notes/read-38)
+Read: 41 - Intent Filters|[Read: 42 - Location](https://malik9931.github.io/reading-notes/read-41)
+Read: 42 - Location|[Read: 42 - Location](https://malik9931.github.io/reading-notes/read-42)
 
 ### Table of Content for Code 301
 
